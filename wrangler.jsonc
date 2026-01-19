@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "kaluza-api",
+	"upload_source_maps": true,
+	"observability": {
+		"enabled": true
+	},
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_name": "kaluzadb",
+			"database_id": "d0b5faff-aff1-40ca-83ab-3f3d217a1d85"
+		}
+	]
+}
